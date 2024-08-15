@@ -1,0 +1,12 @@
+  This is a regular snake game and I too wanted to make in that way but I think making it as a platformer would be more fun adding few stages and maps would give depth to game play and some hidden treasures which could be hard to collect for the snake, I think this is a great idea. and the score is actually the amount of food you collect throughout the map. There will be several levels, I wish this to be endless but including this depth is not possible in the endless mode. Thinking of mode I think we can add a mode called endless mode where players can hang out and have some fun with the nostalgic snake game. so Finally these are my ideas regarding my first project
+
+  1. Add stages and create levels with hidden treasure and frustrating traps, with some logical puzzle solving and eating food.
+  2. Add a free mode where you can grow by eating food in an endless world and this is where I want to implement something like slither.io or tron like think with special powerups spawning in between you can take powerups to out run enemies and kill them by making their snake's head hit your body. I also think it would be better if this is a separate game but that a problem for future me.
+  Current problems (just the classic snake game):
+  1. Adding various common game aspects:
+    * Main menu
+    * Pause button
+    * pause screen
+    * Difficulty
+    * Sound
+    * High scores for each difficulty
