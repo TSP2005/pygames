@@ -1,0 +1,9 @@
+Main game
+waves
+points system
+pause and start menus
+parallax background
+different types of ships
+upgradable ships
+boss battle
+executable file
