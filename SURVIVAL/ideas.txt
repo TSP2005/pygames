@@ -1,0 +1,20 @@
+1. create a map where random stuff spawn
+    a. a basic tile texture
+    b. some decors
+    c. some obstacles
+    d. an endless map (moving camera, repeated map)
+2. create a player sprite
+3. create an enemy sprite
+4. create a weapon, projectiles
+5. create animations of basic player, enemy movements
+6. implement the map, movement of player and enemies
+7. Implement a health system
+8. Implement the toughness of the level (make it such that more enemies spawn as the time increases)
+9. Implement the dash mechanism
+10. Implement the player collison with obstacles, enemies
+11. Implement the score system and coins, xp orbs
+12. Implement the upgrade system after each wave
+13. Implement the main menu, pause restart and quit buttons
+14. Implement the inventory and overall upgrades
+15. Make more weapons, projectiles and so on
+16. No physics, it is top down 2d.
